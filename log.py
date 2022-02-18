@@ -1,6 +1,6 @@
 """
 Logs servem para rastrear eventos que ocorreram em um programa executado.
-Além disso, possui importância e gravidade.
+Além disso, possuem importância e gravidade.
 
 Níveis de log:
 1) debug: informações detalhadas,quando ocorre problemas
